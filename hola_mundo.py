@@ -1,0 +1,1 @@
+print("!Sincronización completada con éxito¡")
